@@ -1,0 +1,15 @@
+
+{
+  "telegram-desktop": {
+    "name": "telegram-desktop",
+    "type": "linux",
+    "url": "https://example.com/packages/telegram.tar.gz",
+    "description": "Telegram Desktop (adapted)"
+  },
+  "notepadpp": {
+    "name": "notepad++",
+    "type": "exe",
+    "url": "https://desktop.telegram.org/",
+    "description": "Notepad++ for Windows"
+  }
+}
